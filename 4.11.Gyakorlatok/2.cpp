@@ -62,7 +62,7 @@ struct User { /* ... */ };
 
 
 
-extern int error_number;
+extern int error_number = 1;
 
 
 
