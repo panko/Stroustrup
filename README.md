@@ -1,3 +1,2 @@
 # stroustrup-exercises
-i will solve all the exercises in c++
-Bjarne Stroustrup: A C++ Programozási nyelv
+My solved exercises from "Bjarne Stroustrup: A C++ Programozási nyelv".
